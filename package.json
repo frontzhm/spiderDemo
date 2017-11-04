@@ -1,0 +1,23 @@
+{
+  "name": "spiderDemo",
+  "version": "1.0.0",
+  "description": "just test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frontzhm/spiderDemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frontzhm/spiderDemo/issues"
+  },
+  "homepage": "https://github.com/frontzhm/spiderDemo#readme",
+  "dependencies": {
+    "puppeteer": "^0.12.0"
+  }
+}
